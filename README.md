@@ -12,8 +12,14 @@
 ### Medium Blog Posts
 
 - [Cyberattacks Detection in IoT-based Smart City Network Traffic](https://now-its-abhi.medium.com/cyberattacks-detection-in-iot-based-smart-city-network-traffic-c874588c5f6c?source=friends_link&sk=62e0269e428b8658163a0c0d842d1151)
+- [Walmart Sales Time Series Forecasting using Deep Learning](https://medium.com/nerd-for-tech/walmart-sales-time-series-forecasting-using-deep-learning-e7a5d47c448b?source=friends_link&sk=60a520d4cd7960a26114d39731eabb0b)
+- [Network Intrusion Detection Using Deep Learning](https://medium.com/geekculture/network-intrusion-detection-using-deep-learning-bcc91e9b999d?source=friends_link&sk=2b84dd61f3e76d63af0a14daf6f89f43)
 - [TCP Client-Server Network using Socket Programming Python](https://now-its-abhi.medium.com/tcp-client-server-network-using-socket-programming-python-9210cba749fe?source=friends_link&sk=8843e2c8d8d95413f8eb742f92c185be)
 - [AODV Routing Protocol Network Simulation ](https://medium.com/nerd-for-tech/aodv-routing-protocol-network-simulation-53f3a23918aa?source=friends_link&sk=a16e256286176514cdab40110e8f5b21)
+- [Primality Tests-Computational Number Theory](https://now-its-abhi.medium.com/primality-tests-computational-number-theory-bcdbb69dc991?source=friends_link&sk=0f2102459b093c6eaf160e55676b83ef)
+- [Future of Nuclear Power | What is Green Hydrogen?](https://now-its-abhi.medium.com/what-is-green-hydrogen-how-it-can-replace-fossil-fuels-59c9f221d8d7?source=friends_link&sk=284a4fbedfa901e3de5c066145fa8efa)
+- [Black holes: A Journey from Death to Birth](https://now-its-abhi.medium.com/black-holes-a-journey-from-death-to-birth-2b6d848ac92a?source=friends_link&sk=d18253d8906ffdcd0091e4b70edc142c)
+- [Criminal Reformation](https://now-its-abhi.medium.com/criminal-reformation-f53af68063c5?source=friends_link&sk=bec3daf1fa0f682717067b6ef013b755)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhinav-bhardwaj)
 
