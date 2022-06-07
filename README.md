@@ -1,4 +1,4 @@
-## Hi there, I'm Abhinav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Abhinav 
 ### **A Student | Developer | Data Scientist | ML Engineer | Writer**
 
 Currently, I am pursuing BSc in Physical Science from Hansraj College, University of Delhi and I am also pursuing BSc in Data Science from the Indian Institute of Technology, Madras. 
