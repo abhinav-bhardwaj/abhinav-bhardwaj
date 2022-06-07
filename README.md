@@ -3,7 +3,7 @@
 
 Currently, I am pursuing BSc in Physical Science from Hansraj College, University of Delhi and I am also pursuing BSc in Data Science from the Indian Institute of Technology, Madras. 
 
-**Resume** - https://drive.google.com/file/d/1oHwgu46A4A7UBF4LityOfZMH5l0lkjy9/view?usp=sharing
+**Resume** - [https://drive.google.com/file/d/1oHwgu46A4A7UBF4LityOfZMH5l0lkjy9/view?usp=sharing](https://drive.google.com/file/d/1YwN3JVDrP12tn7RwvnnSl3JzAWsGLtHk/view?usp=sharing)
 
 **Portfolio** - https://sites.google.com/view/nowitsabhi/
 
