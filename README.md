@@ -1,11 +1,8 @@
 ## Hi there, I'm Abhinav 
-### **A Student | Developer | Data Scientist | ML Engineer | Writer**
+### **A Data Scientist | Policy Researcher | ML Engineer | Writer | Student | Developer **
 
-Currently, I am pursuing BSc in Physical Science from Hansraj College, University of Delhi and I am also pursuing BSc in Data Science from the Indian Institute of Technology, Madras. 
+I recently completed my tenure as a full-time Research & Development Associate at the Indian Space Association (ISpA). I have a Bachelor of Science in Physical Sciences with specialization in Computer Science from Hansraj College, University of Delhi. Additionally, I am pursuing a second Bachelor in Data Science from the Indian Institute of Technology Madras (IITM) remotely part-time.
 
-**Resume** - [https://drive.google.com/file/d/1oHwgu46A4A7UBF4LityOfZMH5l0lkjy9/view?usp=sharing](https://drive.google.com/file/d/1YwN3JVDrP12tn7RwvnnSl3JzAWsGLtHk/view?usp=sharing)
-
-**Portfolio** - https://sites.google.com/view/nowitsabhi/
 
 ### Let's Connect! 
 
@@ -18,8 +15,8 @@ Currently, I am pursuing BSc in Physical Science from Hansraj College, Universit
 ### Medium Blog Posts
 
 - [Cyberattacks Detection in IoT-based Smart City Network Traffic](https://now-its-abhi.medium.com/cyberattacks-detection-in-iot-based-smart-city-network-traffic-c874588c5f6c?source=friends_link&sk=62e0269e428b8658163a0c0d842d1151)
-- [Walmart Sales Time Series Forecasting using Deep Learning](https://medium.com/nerd-for-tech/walmart-sales-time-series-forecasting-using-deep-learning-e7a5d47c448b?source=friends_link&sk=60a520d4cd7960a26114d39731eabb0b)
 - [Network Intrusion Detection Using Deep Learning](https://medium.com/geekculture/network-intrusion-detection-using-deep-learning-bcc91e9b999d?source=friends_link&sk=2b84dd61f3e76d63af0a14daf6f89f43)
+- [Walmart Sales Time Series Forecasting using Deep Learning](https://medium.com/nerd-for-tech/walmart-sales-time-series-forecasting-using-deep-learning-e7a5d47c448b?source=friends_link&sk=60a520d4cd7960a26114d39731eabb0b)
 - [TCP Client-Server Network using Socket Programming Python](https://now-its-abhi.medium.com/tcp-client-server-network-using-socket-programming-python-9210cba749fe?source=friends_link&sk=8843e2c8d8d95413f8eb742f92c185be)
 - [AODV Routing Protocol Network Simulation ](https://medium.com/nerd-for-tech/aodv-routing-protocol-network-simulation-53f3a23918aa?source=friends_link&sk=a16e256286176514cdab40110e8f5b21)
 - [Primality Tests-Computational Number Theory](https://now-its-abhi.medium.com/primality-tests-computational-number-theory-bcdbb69dc991?source=friends_link&sk=0f2102459b093c6eaf160e55676b83ef)
