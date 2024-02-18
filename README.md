@@ -1,5 +1,5 @@
 ## Hi there, I'm Abhinav 
-### **A Data Scientist | Policy Researcher | ML Engineer | Writer | Student | Developer **
+### **A Data Scientist | Policy Researcher | ML Engineer | Writer | Student | Developer**
 
 I recently completed my tenure as a full-time Research & Development Associate at the Indian Space Association (ISpA). I have a Bachelor of Science in Physical Sciences with specialization in Computer Science from Hansraj College, University of Delhi. Additionally, I am pursuing a second Bachelor in Data Science from the Indian Institute of Technology Madras (IITM) remotely part-time.
 
